@@ -1,0 +1,8 @@
+body {
+    background: url('./background_dofus.jpg') center 0;
+    min-height: 100vh;
+}
+
+#app {
+    display: flex;
+}
