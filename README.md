@@ -1,4 +1,4 @@
-# BackDofusFailChallenge
+# FrontDofusFailChallenge
 
 Technos : 
 - VueJS version 2
